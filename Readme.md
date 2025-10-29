@@ -5,7 +5,17 @@
 
 I'm a CS student who likes to make music and software
 
-Languages and tools that I know:
+<h3 align="center">A UCI freshman looking to learn the mysterious ways of computer science</h3>
+
+ 📫 How to reach me **dylanjliu11@gmail.com**
+
+ 📄 Know about my experiences [big-dyl.github.io/resume.pdf](big-dyl.github.io/resume.pdf)
+
+ ⚡ Fun fact **I can run a mile in 5 minures and 55 seconds**
+
+<hr>
+
+<h3>Languages and tools that I know:</h3>
 <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="32" height="32"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="32" height="32"/>
@@ -24,4 +34,16 @@ Languages and tools that I know:
 
 <hr>
 
+<h3>Connect with me:</h3>
+<p>
+<a href="https://linkedin.com/in/dylan liu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dylan liu" height="30" width="40" /></a>
+<a href="https://instagram.com/dylanjliu11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dylanjliu11" height="30" width="40" /></a>
+<a href="https://kaggle.com/dylanliu11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dylanliu11" height="30" width="40" /></a>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dylanliu11" height="30" width="40" /></a>
+</p>
+
+<hr>
+<h3> more links</h3>
+
 [Resume](https://big-dyl.github.io/resume) /[Portfolio](https://big-dyl.github.io)/ [Music](https://www.youtube.com/@Fowligence/videos)
+
