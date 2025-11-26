@@ -5,7 +5,7 @@
 
 I'm a CS student who likes to make music and software
 
-<h3 align="center">A UCI sophmore looking to learn cool stuff</h3>
+<h3 align="center">A UCI sophomore looking to learn cool stuff</h3>
 
  📫 How to reach me **dylanjliu11@gmail.com**
 
