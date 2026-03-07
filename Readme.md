@@ -9,7 +9,7 @@ I'm a CS student who likes to make music and software
 
  📫 How to reach me **dylanjliu11@gmail.com**
 
- 📄 Know about my experiences [big-dyl.github.io/resume.pdf](big-dyl.github.io/resume.pdf)
+ 📄 Know about my experiences [dylanliu.net/about](https://dylanliu.net/about#resume)
 
  ⚡ Fun fact **I can run a mile in 5 minures and 55 seconds**
 
@@ -45,5 +45,5 @@ I'm a CS student who likes to make music and software
 <hr>
 <h3> more links</h3>
 
-[Resume](https://big-dyl.github.io/resume) /[Portfolio](https://big-dyl.github.io)/ [Music](https://www.youtube.com/@Fowligence/videos)
+[Resume](https://dylanliu.net/about#resume) /[Portfolio](https://dylanliu.net)/ [Music](https://www.youtube.com/@Fowligence/videos)
 
